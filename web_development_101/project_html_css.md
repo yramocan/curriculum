@@ -666,6 +666,7 @@ https://rawgit.com/lyhbarry/google-homepage/master/index.html)
 * [Samir Talic Solution (easy)](https://github.com/4886Talga/google-homepage) | [View in Browser](http://htmlpreview.github.io/?https://github.com/4886Talga/google-homepage/blob/master/index.html)
 * [Jin Chen Solution (easy)](https://github.com/jinchen93/google-homepage) | [View in Browser](https://htmlpreview.github.io/?https://github.com/jinchen93/google-homepage/blob/master/index.html)
 * [Veselin Ivanov's (Bulgarian) easy solution](https://github.com/terlica/google-homepage) | [View in Browser](https://htmlpreview.github.io/?https://github.com/terlica/google-homepage/blob/master/index.html)
+* [Yuri Ramocan's (easy) solution](https://github.com/yramocan/google-frontpage) | [View in browser](http://htmlpreview.github.io/?https://github.com/yramocan/google-frontpage/blob/master/index.html)
 * Add your solution above this line!
 
 ## Additional Resources 
